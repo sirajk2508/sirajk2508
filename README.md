@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/AdorableImportantCaecilian-size_restricted.gif)]
+![MasterHead](https://thumbs.gfycat.com/AdorableImportantCaecilian-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Siraj Khan</h1>
 <h3 align="center">Crafting captivating user experiences through code and creativity.</h3>
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
