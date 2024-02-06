@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirajk2508&label=Profile%20views&color=0e75b6&style=flat" alt="sirajk2508" /> </p>
 
-- 🔭 I’m currently working on **Music Recommendation system**
+- 🔭 I’m currently working on full fledged **Youtube Website**
 
-- 🌱 I’m currently learning **Data Analysis using SQL, Python, Power BI, MS-Excel**
+- 🌱 As of now I'm enhancing my **React, Redux and JavaScript** skills.
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-siraj.netlify.app/](https://myportfolio-siraj.netlify.app/)
 
